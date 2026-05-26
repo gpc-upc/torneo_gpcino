@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet"
+      href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"
+  />
+  <title>TGPCino</title>
+  
+</head>
+<body>
+
+  <div class="header">
+    <img src="logo.jpg" alt="Logo GPC" class="logo">
+    <h1>Torneo Gpcino 2026</h1>
+  </div>
+
+  <div class="container">
+    <ul class = "rules">
+        <li> <span class="regla">Contests:</span> CF entre 6/05 - 6/06 (no sabatinos) y 1 contest individual presencial</li>
+        <li><span class="regla">Puntaje Total:</span> 5 mejores puntajes en contests</li>
+    </ul>
+    <div class="table-container">
+      <table id="tabla">
+        <thead>
+          <tr>
+            <th class="rank">Rank</th>
+            <th>Coder</th>
+            <th>Handle CF</th>
+            <th>Grupo</th>
+            <th>Puntaje</th>
+            <th>CF 6/05</th>
+            <th>CF 18/05</th>
+            <th>CF 21/05</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+  </div>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

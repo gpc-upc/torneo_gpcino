@@ -1,0 +1,92 @@
+body {
+  font-family: 'JetBrains Mono', monospace;
+  padding: 10px;
+  background: #F5F3FF;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 1px 1px;
+}
+
+th {
+  background: #5B21B6;
+  color: white;
+}
+
+h1 {
+  color: #2E1065;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.regla{
+  color: #2E1065;
+  font-weight: bold;
+}
+
+.rules{
+   font-size: 14px;
+}
+
+/* SOLO PC */
+@media (min-width: 768px) {
+
+  .rules {
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 768px) {
+
+  th, td {
+    font-size: 13px;
+  }
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+  background: #5B21B6 !important;
+  color: white !important;
+  border: 1px solid #5B21B6 !important;
+}
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.polera {
+  background: #dbeafe !important;
+}
+
+.rank {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.dataTables_filter {
+  margin-bottom: 15px;
+}
