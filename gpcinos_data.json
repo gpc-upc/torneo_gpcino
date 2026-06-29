@@ -10,59 +10,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 5,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 5
- },
- {
-   "Código": "u202412916",
-   "Nombres y Apellidos": "Cristian Coaguila",
-   "Handle CF": "Jean_Pool",
-   "Grupo": "Senior",
-   "CF 6 May": 5,
-   "CF 18 May": 5,
-   "CF 21 May": 5,
-   "CF 7 Jun": 4,
-   "CF 9 Jun": 0,
-   "CF 12 Jun": 0,
-   "CF 18 Jun": 0
- },
- {
-   "Código": "u202213102",
-   "Nombres y Apellidos": "Edison Coaguila",
-   "Handle CF": "SirNathaN",
-   "Grupo": "Senior",
-   "CF 6 May": 5,
-   "CF 18 May": 0,
-   "CF 21 May": 3,
-   "CF 7 Jun": 5,
-   "CF 9 Jun": 0,
-   "CF 12 Jun": 5,
-   "CF 18 Jun": 0
- },
- {
-   "Código": "u202316118",
-   "Nombres y Apellidos": "Sergio Iglesias",
-   "Handle CF": "ghostrider101218",
-   "Grupo": "Senior",
-   "CF 6 May": 0,
-   "CF 18 May": 1,
-   "CF 21 May": 2,
-   "CF 7 Jun": 5,
-   "CF 9 Jun": 5,
-   "CF 12 Jun": 5,
-   "CF 18 Jun": 0
- },
- {
-   "Código": "u202411305",
-   "Nombres y Apellidos": "Matías Del Castillo",
-   "Handle CF": "_matjavi_",
-   "Grupo": "Senior",
-   "CF 6 May": 4,
-   "CF 18 May": 0,
-   "CF 21 May": 0,
-   "CF 7 Jun": 4,
-   "CF 9 Jun": 0,
-   "CF 12 Jun": 4,
-   "CF 18 Jun": 5
+   "CF 18 Jun": 5,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202224404",
@@ -75,7 +24,8 @@
    "CF 7 Jun": 2,
    "CF 9 Jun": 3,
    "CF 12 Jun": 4,
-   "CF 18 Jun": 4
+   "CF 18 Jun": 4,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u20251h352",
@@ -88,7 +38,64 @@
    "CF 7 Jun": 3,
    "CF 9 Jun": 4,
    "CF 12 Jun": 3,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 5
+ },
+ {
+   "Código": "u202412916",
+   "Nombres y Apellidos": "Cristian Coaguila",
+   "Handle CF": "Jean_Pool",
+   "Grupo": "Senior",
+   "CF 6 May": 5,
+   "CF 18 May": 5,
+   "CF 21 May": 5,
+   "CF 7 Jun": 4,
+   "CF 9 Jun": 0,
+   "CF 12 Jun": 0,
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
+ },
+ {
+   "Código": "u202213102",
+   "Nombres y Apellidos": "Edison Coaguila",
+   "Handle CF": "SirNathaN",
+   "Grupo": "Senior",
+   "CF 6 May": 5,
+   "CF 18 May": 0,
+   "CF 21 May": 3,
+   "CF 7 Jun": 5,
+   "CF 9 Jun": 0,
+   "CF 12 Jun": 5,
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
+ },
+ {
+   "Código": "u202316118",
+   "Nombres y Apellidos": "Sergio Iglesias",
+   "Handle CF": "ghostrider101218",
+   "Grupo": "Senior",
+   "CF 6 May": 0,
+   "CF 18 May": 1,
+   "CF 21 May": 2,
+   "CF 7 Jun": 5,
+   "CF 9 Jun": 5,
+   "CF 12 Jun": 5,
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
+ },
+ {
+   "Código": "u202411305",
+   "Nombres y Apellidos": "Matías Del Castillo",
+   "Handle CF": "_matjavi_",
+   "Grupo": "Senior",
+   "CF 6 May": 4,
+   "CF 18 May": 0,
+   "CF 21 May": 0,
+   "CF 7 Jun": 4,
+   "CF 9 Jun": 0,
+   "CF 12 Jun": 4,
+   "CF 18 Jun": 5,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202116508",
@@ -101,7 +108,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 4
+   "CF 18 Jun": 4,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202411774",
@@ -114,7 +122,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202514139",
@@ -127,7 +136,8 @@
    "CF 7 Jun": 3,
    "CF 9 Jun": 4,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202120911",
@@ -140,7 +150,8 @@
    "CF 7 Jun": 2,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202510522",
@@ -153,7 +164,8 @@
    "CF 7 Jun": 2,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202513983",
@@ -166,7 +178,8 @@
    "CF 7 Jun": 1,
    "CF 9 Jun": 3,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202216662",
@@ -179,7 +192,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 3,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202410382",
@@ -192,7 +206,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u20251f901",
@@ -205,7 +220,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 2,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u20231d331",
@@ -218,7 +234,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u20221c503",
@@ -231,7 +248,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202413287",
@@ -244,7 +262,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202518263",
@@ -257,7 +276,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202419766",
@@ -270,7 +290,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u20241E211",
@@ -283,7 +304,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202319448",
@@ -296,7 +318,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202411627",
@@ -309,7 +332,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202515779",
@@ -322,7 +346,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202410678",
@@ -335,7 +360,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202317362",
@@ -348,7 +374,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202516617",
@@ -361,7 +388,8 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  },
  {
    "Código": "u202520148",
@@ -374,6 +402,7 @@
    "CF 7 Jun": 0,
    "CF 9 Jun": 0,
    "CF 12 Jun": 0,
-   "CF 18 Jun": 0
+   "CF 18 Jun": 0,
+   "CF 28 Jun": 0
  }
 ]
