@@ -70,6 +70,7 @@ async function cargarDatos() {
       <td>${persona["CF 18 Jun"]}</td>
       <td>${persona["CF 28 Jun"]}</td>
       <td>${persona["CF 30 Jun"]}</td>
+      <td>${persona["CF 06 Jul"]}</td>
     `;
     tbody.appendChild(tr);
   });
